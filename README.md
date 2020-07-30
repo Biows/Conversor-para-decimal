@@ -1,2 +1,2 @@
-# https://biows.github.io/Conversor-para-decimal/
+# biows.github.io/conversor-para-decimal
 fração para decimal
